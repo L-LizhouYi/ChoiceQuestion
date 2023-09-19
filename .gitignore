@@ -1,0 +1,4 @@
+.idea
+venv
+database.db
+.DS_Store
